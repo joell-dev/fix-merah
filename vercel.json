@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/", "dest": "/api/index.js" },
+    { "src": "/banding", "dest": "/api/banding.js" },
+    { "src": "/test", "dest": "/api/testsend.js" }
+  ]
+}
